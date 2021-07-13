@@ -1,0 +1,8 @@
+.input-style {
+    width: 40%;
+    height: 30px;
+    font-size: 18px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    padding-left: 16px;
+}
